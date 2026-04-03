@@ -1,0 +1,82 @@
+Blind 75 LeetCode Problems
+========================
+
+1. Two Sum (Easy) - #1
+2. Best Time to Buy and Sell Stock (Easy) - #121
+3. Contains Duplicate (Easy) - #217
+4. Product of Array Except Self (Medium) - #238
+5. Maximum Subarray (Easy) - #53
+6. Maximum Product Subarray (Medium) - #152
+7. Find Minimum in Rotated Sorted Array (Medium) - #153
+8. Search in Rotated Sorted Array (Medium) - #33
+9. 3Sum (Medium) - #15
+10. Container With Most Water (Medium) - #11
+11. Letter Combinations of a Phone Number (Medium) - #17
+12. Valid Parentheses (Easy) - #20
+13. Merge Intervals (Medium) - #56
+14. Insert Interval (Hard) - #57
+15. Group Anagrams (Medium) - #49
+16. Top K Frequent Elements (Medium) - #347
+17. Valid Anagram (Easy) - #242
+18. Valid Palindrome (Easy) - #125
+19. Longest Palindromic Substring (Medium) - #5
+20. Palindromic Substrings (Medium) - #647
+21. Longest Increasing Subsequence (Medium) - #300
+22. Coin Change (Medium) - #322
+23. Combination Sum (Medium) - #39
+24. House Robber (Medium) - #198
+25. House Robber II (Medium) - #213
+26. Linked List Cycle (Easy) - #141
+27. Merge Two Sorted Lists (Easy) - #21
+28. Reorder List (Medium) - #143
+29. Reverse Linked List (Easy) - #206
+30. Delete Node in a Linked List (Easy) - #237
+31. Add Two Numbers (Medium) - #2
+32. Copy List with Random Pointer (Medium) - #138
+33. Intersection of Two Linked Lists (Easy) - #160
+34. LRU Cache (Hard) - #146
+35. Binary Tree Inorder Traversal (Easy) - #94
+36. Validate Binary Search Tree (Medium) - #98
+37. Symmetric Tree (Easy) - #101
+38. Maximum Depth of Binary Tree (Easy) - #104
+39. Binary Tree Level Order Traversal (Medium) - #102
+40. Serialize and Deserialize Binary Tree (Hard) - #297
+41. Subtree of Another Tree (Easy) - #572
+42. Construct Binary Tree from Preorder and Inorder Traversal (Medium) - #105
+43. Balanced Binary Tree (Easy) - #110
+44. Path Sum (Easy) - #112
+45. Minimum Depth of Binary Tree (Easy) - #111
+46. Binary Tree Maximum Path Sum (Hard) - #124
+47. Word Search (Medium) - #79
+48. Word Search II (Hard) - #212
+49. Implement Trie (Prefix Tree) (Medium) - #208
+50. Number of Islands (Medium) - #200
+51. Longest Consecutive Sequence (Hard) - #128
+52. Course Schedule (Medium) - #207
+53. Course Schedule II (Medium) - #210
+54. Clone Graph (Medium) - #133
+55. Pacific Atlantic Water Flow (Medium) - #417
+56. Course Schedule III (Hard) - #630
+57. Kth Smallest Element in a BST (Medium) - #230
+58. Serialize and Deserialize BST (Hard) - #297 (BST variant)
+59. Minimum Window Substring (Hard) - #76
+60. Sliding Window Maximum (Hard) - #239
+61. Permutations (Medium) - #46
+62. Permutations II (Medium) - #47
+63. Subsets (Medium) - #78
+64. Subsets II (Medium) - #90
+65. Combination Sum II (Medium) - #40
+66. Word Ladder (Hard) - #127
+67. Number of Decodings (Medium) - #91
+68. Decode Ways (Medium) - #91 (same)
+69. Unique Paths (Medium) - #62
+70. Unique Paths II (Medium) - #63
+71. Minimum Path Sum (Medium) - #64
+72. Maximum Sum Rectangle (Kadane 2D variant) - practice
+73. Alien Dictionary (Hard) - #269
+74. Course Schedule III (Hard) - #630 (duplicate listed for completeness)
+75. Wildcard Matching (Hard) - #44
+
+Notes:
+- Confirm tags: Array, String, Hash Table, Two Pointers, Sliding Window, Stack, Heap, Graph, Tree, DP.
+- Use this file as checklist for Blind 75 practice.
