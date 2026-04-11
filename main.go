@@ -1,16 +1,13 @@
 package main
 
 import (
-	"fmt"
 	blind75 "sraynitjsr/Blind75"
-	latestgolang "sraynitjsr/Core_GoLang_Latest_Features"
+	geeksforgeeks "sraynitjsr/GeeksForGeeks"
 	neetcode150 "sraynitjsr/NeetCode150"
 )
 
 func main() {
-	fmt.Println("Using New Features of GoLang to Solve DSA Problems")
-
-	latestgolang.LatestGoLangFeatures()
+	geeksforgeeks.GeeksForGeeksProblems()
 
 	blind75.Blind75()
 
